@@ -59,6 +59,10 @@
     {
       "name": "my server",
       "address": "https://anisette-v3-server-jh4p.onrender.com"
+    },
+    {
+      "name": "my locale server",
+      "address": "127.0.0.1:51820"
     }
   ],
   "cache": "https://servers.sidestore.io/servers.json.hash"
