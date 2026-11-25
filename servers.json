@@ -3,6 +3,9 @@
     {
       "name": "my server",
       "address": "https://anisette-v3-server-jh4p.onrender.com"
+    },{
+      "name": "my server",
+      "address":"https://ani.846969.xyz"
     }
   ],
   "cache": "https://servers.sidestore.io/servers.json.hash"
